@@ -2,7 +2,7 @@
 #include "esp_camera.h"
 
 // Replace with your network credentials
-const char* nanny_ssid = "Flipper0";
+const char* nanny_ssid = "420";
 const char* nanny_password = "12345678";
 
 // Create an instance of the nannyServer
